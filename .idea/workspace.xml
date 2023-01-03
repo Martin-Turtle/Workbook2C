@@ -1,17 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="21186159-ae41-420e-87a0-e0f28c07ca4e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Workbook2C.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Duplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MaxAndMin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MaxandMin2.java" afterDir="false" />
+    <list default="true" id="21186159-ae41-420e-87a0-e0f28c07ca4e" name="Changes" comment="Question 1">
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,8 +45,16 @@
       <updated>1672701010408</updated>
       <workItem from="1672701013586" duration="2146000" />
       <workItem from="1672741746456" duration="2280000" />
-      <workItem from="1672744772188" duration="5737000" />
+      <workItem from="1672744772188" duration="6446000" />
     </task>
+    <task id="LOCAL-00001" summary="Question 1">
+      <created>1672750998481</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1672750998481</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -71,5 +70,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Question 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Question 1" />
   </component>
 </project>
